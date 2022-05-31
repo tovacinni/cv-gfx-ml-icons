@@ -1,5 +1,7 @@
 # cv-gfx-ml-icons
 
+<img src="neuralfieldpaper.svg" alt="neural field paper" style="width:150px;"/>
+
 This repository contains a set of CC0 icons in `.svg` format to be used for research talks, paper diagrams, videos, or whatever you want to use it for. The icons are mostly themed around computer vision, computer graphics, and machine learning.
 
 I've always been frustrated by how annoying it is to find copyright-free icons and found myself making the same figures over and over so I thought I would keep a repository of them.
