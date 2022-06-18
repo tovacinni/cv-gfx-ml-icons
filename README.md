@@ -15,6 +15,8 @@ If you have any requests, if you file an issue I may create an icon for it somed
 |------------|-------|---------------|
 | Neural Network | <img src="neuralnetwork.svg" alt="neuralnetwork" style="width:150px;"/> | [.svg](neuralnetwork.svg) |
 | Bulldozer | <img src="bulldozer.svg" alt="bulldozer" style="width:150px;"/> | [.svg](bulldozer.svg) |
-| Bulldozer (w/ Outline) | <img src="bulldozer_outline.svg" alt="bulldozer_outline" style="width:150px;"/> | [.svg](bulldozer_outline.svg) |
+| Bunny | <img src="bunny.svg" alt="bunny" style="width:150px;"/> | [.svg](bunny.svg) |
 | Neural Field Paper | <img src="neuralfieldpaper.svg" alt="neuralfieldpaper" style="width:150px;"/> | [.svg](neuralfieldpaper.svg) |
 | Floppy Disk | <img src="floppydisk.svg" alt="floppydisk" style="width:150px;"/> | [.svg](floppydisk.svg) |
+| Deep Neural Network | <img src="deepneuralnetwork.svg" alt="deepneuralnetwork" style="width:150px;"/> | [.svg](deepneuralnetwork.svg) |
+| Side Eye | <img src="sideeye.svg" alt="sideeye" style="width:150px;"/> | [.svg](sideeye.svg) |
